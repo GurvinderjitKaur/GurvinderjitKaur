@@ -14,5 +14,5 @@
   <a href="mailto:yadavjay374@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></>
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
+[Gurvinderjit_kaur](https://github.com/Gurvinderjit kaur)
 Last Edited on - 11/10/2021
